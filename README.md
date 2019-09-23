@@ -128,7 +128,9 @@ You will need to have watched these videos for tomorrow's lab.
 
 # Hungry for more?
 
-1. Complete the afternoon lab. 
+0. Complete the afternoon lab. 
+
+1. Write another solution to the `sumDigits` problem above called `sumDigitsMathy` that _does not_ convert the number to a string (or otherwise use any data types except `Number`).
 
 2. Write a function `insertDash` that accepts a number as a parameter and returns a string with a dash inserted between any consecutive **odd numbers**. There should not be a dash at the end, it goes only between numbers.
 ```javascript
